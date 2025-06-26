@@ -14,3 +14,4 @@ public class Temperatura {
 		System.out.println("A temperatura em ºC é: " + tempC);
 	}
 }
+ 
