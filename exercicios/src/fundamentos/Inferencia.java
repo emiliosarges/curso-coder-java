@@ -30,5 +30,9 @@ public class Inferencia {
 		g = 12;
 		System.out.println(g); 
 		//nesse caso apresenta erro pois os n inteiros estão dentro dos n decimais.
+		
+		double z = 3;
+		z = 1.5;
+		System.out.println(z);
 	}
 }
